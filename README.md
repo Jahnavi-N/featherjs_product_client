@@ -10,7 +10,7 @@ Start [server](https://github.com/benawad/feathersj-product-backend) then:
 
 
 
-`cd react-client`
+`cd featherjs_product_clent`
 
 `npm install`
 
