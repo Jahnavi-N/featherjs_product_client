@@ -10,7 +10,7 @@ Start [server](https://github.com/benawad/feathersj-product-backend) then:
 
 
 
-`cd react-menu-monkey-client`
+`cd react-client`
 
 `npm install`
 
