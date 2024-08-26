@@ -1,4 +1,4 @@
-# react-menu-monkey-client
+# react-client
 
 This is recipe box website created using Feathersjs for the backend and React for the frontend. The website displays dishes that users can click on to find recipes and pictures. New users can create an acccount which grants them access to adding new recipes.
 
